@@ -2,6 +2,8 @@ require 'rubygems'
 require 'sinatra'
 require 'quote'
 
+use_in_file_templates!
+
 get "/" do 
   erb :index 
 end
