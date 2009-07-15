@@ -1,7 +1,7 @@
 # See more at: http://masonbrowne.info/wp-content/uploads/2008/03/deploy.rb
 set :application, "gab"
 set :scm, "git"
-set :repository, "git@github.com:mjfreshyfresh/gab.git"
+set :repository, "git@github.com:mjfreshyfresh/quotr.git"
 set :user, "deploy"
 set :deploy_to, "/home/#{user}/apps/#{application}"
 set :keep_releases, 2
