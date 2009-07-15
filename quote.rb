@@ -24,7 +24,7 @@ class Quote
   "There is no elegant way to piss in the street.",
   "X is a tiny wart on the giant ass of Craigslist.",
   "What's after satellite radio? The satellite newspaper? The satellite stone tablet?",
-  "Like snowman taking a dump on a unicorn that's on fire",
+  "Like a snowman taking a dump on a unicorn that's on fire",
   "Did [Humpty] get his deviated septum fixed?"]
   
   def self.random
