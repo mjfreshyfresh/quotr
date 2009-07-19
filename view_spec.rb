@@ -1,6 +1,7 @@
 require 'app'
 require 'test/unit'
 require 'rack/test'
+require 'nokogiri'
 
 set :environment, :test
 
